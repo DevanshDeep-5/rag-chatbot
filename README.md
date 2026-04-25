@@ -238,12 +238,3 @@ See the full [LICENSE](LICENSE) file for more details.
 * Backend by [FastAPI](https://fastapi.tiangolo.com/)
 * Observability via [LangSmith](https://smith.langchain.com/)
 
----
-
-## 📬 Contact
-
-Have feedback, issues, or ideas?
-
-* Open an issue on GitHub
-* Submit a pull request
-* Contact the maintainer (aryanmahawar205@gmail.com)
