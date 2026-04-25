@@ -199,16 +199,6 @@ print(chat_res.json())
 
 ---
 
-## 🖼 Screenshots
-
-Screenshots are located in:
-
-```
-documentation/screenshots/
-```
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions!
